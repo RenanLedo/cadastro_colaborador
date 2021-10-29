@@ -2,6 +2,8 @@
     package="com.example.cadastro_colaboradores">
    <application
         android:label="cadastro_colaboradores"
+        android:allowBackup="false"
+        android:fullBackupOnly="false"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
